@@ -1,0 +1,10 @@
+//Call function in nodejs / node js
+
+function  PrintName(name){
+    console.log("Hello " + name);
+}
+
+PrintName("BHANU PRATAP")
+
+// Run the code using command node filename.js in visual studio code or command prompt window
+
